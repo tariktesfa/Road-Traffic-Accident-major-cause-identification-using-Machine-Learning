@@ -1,2 +1,2 @@
 # Machine-learning-MSc-project
-Road Traffic Accident prediction using Machine Learning Classification Technique
+Road Traffic Accident Data Analysis and prediction using Machine Learning Classification Technique
